@@ -5,7 +5,17 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JSlider;
 
+<<<<<<< HEAD
 public class Main extends JPanel {
+=======
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// modif morgan
+		//modif franck
+>>>>>>> 39365ddf422ee825e70fa04f542bf09d15d99139
 
 	public Main() {
 
