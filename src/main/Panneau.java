@@ -1,9 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package jframe;
-
+package main;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.event.ActionEvent;
@@ -17,8 +12,6 @@ import javax.swing.*;
 public final class Panneau extends JPanel implements ActionListener {
 
     public Panneau() {
-        this.setSize(500, 500);
-        this.setBackground(Color.BLUE);
     }
 
     @Override
@@ -28,6 +21,5 @@ public final class Panneau extends JPanel implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent ae) {
-     
     }
 }
