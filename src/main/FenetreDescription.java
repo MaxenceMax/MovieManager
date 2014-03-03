@@ -15,15 +15,15 @@ public class FenetreDescription extends JFrame  {
            private JPanel pan = new JPanel();
            private JLabel label = new JLabel();
            private JButton bouton1 = new JButton("Start");
+           
            public FenetreDescription(){
            pan.setLayout(new BorderLayout());
-           this.setTitle("deuxième fenetre");
+           this.setTitle("Deuxième fenetre");
            this.setSize(800,600);
            this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
            this.setLocationRelativeTo(null);
         
-           pan.setBackground(Color.MAGENTA);
-           label.setText("salut nous somme ds la 2 eme fenetre");
+           label.setText("Nous sommes dans la 2ème fenêtre");
          
            pan.add(label);   
             
