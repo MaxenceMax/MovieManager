@@ -142,7 +142,7 @@ public class FormHome extends javax.swing.JFrame {
 
     private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
         this.jOptionPane1.setVisible(false);
-        this.jOptionPane1.showMessageDialog(rootPane, "Vous avez cliqué");
+        this.jOptionPane1.showMessageDialog(rootPane, "Vous avez cliqu??");
     }//GEN-LAST:event_jButton2MouseClicked
 
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
